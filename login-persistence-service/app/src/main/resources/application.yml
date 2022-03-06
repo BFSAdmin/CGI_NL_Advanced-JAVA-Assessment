@@ -1,0 +1,6 @@
+server:
+  port: 7001
+logging:
+  level:
+    ROOT: INFO
+    com.nl.cgi.bff: DEBUG
